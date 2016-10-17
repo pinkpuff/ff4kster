@@ -1,0 +1,56 @@
+000 Damage
+001 Damage, Sap
+002 Recover HP
+003 Single-digit HP
+004 Drain HP
+005 Drain MP
+006 Add status to living creatures
+007 Add immobilizing status
+008 Add Blink
+009 Add Reflect
+010 Remove KO
+011 Remove all statuses except
+012 Add form-changing status
+013 Increase physical defense
+014 Increase magic defense
+015 Modify speed
+016 Remove positive statuses
+017 Add Stop
+018 Scan
+019 Flee battle
+020 Damage based on caster's HP
+021 Recover MP
+022 Fully heal HP/MP
+023 Damage, Poison
+024 Damage, status to living creatures
+025 damage, immobilizing status
+026 Sylph
+027 Odin
+028 Add Count
+029 Add Count
+030 Damage based on target's Max HP
+031 Add Calcify
+032 Gaze
+033 Bluster
+034 Slap
+035 Blast
+036 Hug
+037 Explode
+038 Reaction
+039 Recover 1/10 target's HP
+040 Damage, status
+041 Spawn a monster
+042 Remove positive status
+043 Damage based on physical attack power
+044 Recover 1/3 target's HP
+045 Trigger a reaction
+046 Increment invincibility counter
+047 Decrement invincibility counter
+048 Revive monster
+049 Suicide, bring in next monster
+050 End battle
+051 Search
+052 Hatch
+053 Something happens to adult Rydia
+126 Audiovisual effect
+127 Nothing

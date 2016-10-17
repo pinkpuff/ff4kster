@@ -1,0 +1,90 @@
+00 - --None--
+01 - Nothing?
+02 - Nothing?
+03 - Wall
+04 - Flare
+05 - Fire 1/Emission
+06 - Fire 2
+07 - Fire 3
+08 - Lit 1
+09 - Lit 2 /(Enemy)Thunder
+10 - Lit 3/(Enemy)Blitz
+11 - Ice 1
+12 - Ice 2
+13 - Ice 3
+14 - Armor/Shell/Image
+15 - Blink
+16 - Fast
+17 - Dispel
+18 - Mute
+19 - Berserk
+20 - Stop
+21 - Slow
+22 - Cure 1/Warp/Disrupt/Demolish/Disrupt
+23 - Cure 2/Asura1/
+24 - Cure 3/Heal Staff/Asura2/Remedy
+25 - Bio
+26 - Charm
+27 - Weak/EnemyWeak
+28 - Fatal/Count
+29 - Heal/Silver Staff/Staff/EnemyHeal/EnemyHeal2
+30 - Peep/Search - ignores Effect
+31 - Life1/Asura1
+32 - Life2
+33 - Size/Breath/Whisper/Poison
+34 - Float
+35 - Hold/Entangle
+36 - White/Nuke/SpellJinn/MegaNuke
+37 - Quake/Titan/EnemyQuake
+38 - Powder/Digest/Pollen/
+39 - Stone/SummonRoc/Ray/Beak/Petrify/Hug
+40 - Spell Indra
+41 - Spell Chocobo
+42 - Spell Shiva
+43 - Suppress target graphics and defer to Effect
+44 - SpellBomb/SummonBomb/Explode/Reaction/Explode2
+45 - Summon Indra
+46 - Cure 4
+47 - Flame
+48 - Flood
+49 - Smoke
+50 - Pin
+51 - Enemy Spell Charm
+52 - Needle
+53 - Summon Jinn
+54 - Fire/Blaze
+56 - Cold Mist/D.Breath/Blizzard
+57 - Venom
+58 - Hatch
+59 - Summon Sylph
+60 - Blitz
+61 - Summon Mist / Sylph Healing 
+62 - Maser/Beam/Laser/Heat Ray
+63 - Magnet
+64 - Explosion from center-left expands then moves across
+65 - Counter
+66 - Nothing?
+67 - Big Bang
+68 - Alert
+69 - Globe199
+70 - Tornado
+71 - Storm
+72 - SummonMage/Bluster/Blast
+73 - Hold Gas
+74 - Unused - Yellow Flashing with Sprites around targets
+75 - Glare
+76 - Sleep/Tongue/Gas/
+77 - Curse/DullSong
+78 - Gaze/Slap/Glance/Crush, doesn't do anything on its own
+79 - Large rotating sprites hit enemies, repeat four times
+80 - Sequence never ends
+81 - Screen turns blue, enemies float
+82 - Graphic shows on targets which changes and lingers
+83 - Nothing
+84 - Wave of graphic hits target 5 times, target flashes
+85 - Sequence never ends
+86 - Nothing
+87 - Wave of graphic hits target, target flashes
+88 - Sequence never ends
+89 - Sequence never ends
+90 - Sequence never ends

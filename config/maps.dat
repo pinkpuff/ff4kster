@@ -1,0 +1,384 @@
+001 Baron Town
+002 Mist
+003 Kaipo
+004 Mysidia
+005 Mythril
+006 Troia Town
+007 Agart
+008 Troia Inn
+009 Troia Weapons
+010 Troia Armor
+011 Troia Items
+012 Baron Inn
+013 Baron Equipment
+014 Cid's house
+015 Rosa's house
+016 Rydia's house
+017 Kaipo Inn
+018 Kaipo Cafe
+019 Kaipo Hospital
+020 Mysidia Cafe
+021 Mysidia Inn
+022 Mount Ordeals Mirror Room
+023 House of Wishes
+024 Room of Wishes
+025 Troia Cafe main floor
+026 Troia Cafe upstairs
+027 Troia Dancers' stage
+028 -Glitch world-
+029 Troia Chocobo stable entrance
+030 Troia Chocobo stable downstairs
+031 Astro Tower main hall
+032 Astro Tower Observatory
+033 Agart Inn
+034 Large chocobo forest near Troia
+035 Town water background
+036 Castle floor background
+037 Baron Castle
+038 Damcyan
+039 Fabul
+040 Troia Castle
+041 Eblan
+042 Desert background
+043 Baron Castle Lobby
+044 Baron Castle Outer court
+045 Baron Castle Throne room
+046 Baron Castle West Hall
+047 Baron Castle East Hall
+048 Baron Castle Prison entrance
+049 Baron Castle Prison
+050 Baron Castle Soldiers' quarters
+051 Baron Castle West tower 1F
+052 Baron Castle West tower 2F
+053 Baron Castle Cecil's room
+054 Baron Castle East tower 1F
+055 Baron Castle East tower 2F
+056 Baron Castle East tower 3F
+057 Baron Castle East tower B1
+058 Baron Castle Odin's room
+059 Sewer entrance
+060 Sewer B3
+061 Sewer B1
+062 Sewer Save point room
+063 Sewer B2
+064 Damcyan 1F
+065 Damcyan 2F
+066 Damcyan 3F
+067 Damcyan Treasury entrance
+068 Damcyan Treasury downstairs
+069 Room leading to sewer
+070 Agart Weapons
+071 Agart Armor
+072 Fabul Lobby
+073 Fabul Second floor
+074 Fabul Throne room
+075 Fabul Crystal room
+076 Fabul Equipment store
+077 Fabul Inn
+078 Fabul East tower 1F
+079 Fabul East tower 2F
+080 Fabul King's room
+081 Fabul West tower 1F
+082 Fabul Hostpital
+083 Fabul Yang's room
+084 Forest where you lose Kain
+085 Watery Pass Save point room
+086 Troia Castle Lobby
+087 Troia Castle Clerics' room
+088 Troia Castle Crystal room
+089 Troia Castle Hospital
+090 Troia Castle Room w/ 3 stairs
+091 Troia Castle Hall to treasury
+092 Troia Castle Room w/ random pots
+093 Troia Castle Room w/ rubyring chests
+094 Troia Castle Main treasury
+095 Eblan 1F
+096 Eblan 2F
+097 Eblan Throne room
+098 Eblan West tower 1F
+099 Eblan West tower 2F
+100 Eblan East tower 1F
+101 Eblan East tower 2F
+102 Eblan Basement
+103 Baron Castle Black magic school
+104 Baron Castle White magic school
+105 Desert background
+106 Training room
+107 Waterfall
+108 Castle water background
+109 Misty cave
+110 Mirror room background
+111 Watery Pass background
+112 Watery Pass 1F
+113 Watery Pass 2F
+114 Watery Pass 3F
+115 Watery Pass 4F
+116 Watery Pass 5F
+117 Waterfall entrance
+118 Waterfall 1F
+119 Waterfall 2F
+120 Antlion Cave 1F
+121 Antlion Cave 2F
+122 Antlion Cave Antlion's nest
+123 Antlion Cave Save point room
+124 Antlion Cave Treasure room w/ harp
+125 Black background
+126 Mist background
+127 Mount Hobs West
+128 Mount Hobs Summit
+129 Mount Hobs East
+130 Mount Hobs Save point floor
+131 Mountain background
+132 Watery Pass Room behind waterfall
+133 Mount Ordeals 1F
+134 Mount Ordeals 2F
+135 Mount Ordeals 3F
+136 Mount Ordeals Summit
+137 Mysidia Crystal room
+138 Mysidia Devil's Road
+139 Baron Castle Collapsing hallway
+140 Agart Well
+141 Cave Magnes 1F
+142 Cave Magnes 2F
+143 Cave Magnes Treasure room w/ pit
+144 Cave Magnes 3F
+145 Cave Magnes Treasure room w/ torch
+146 Cave Magnes 4F
+147 Cave Magnes Save point room
+148 Cave Magnes 5F
+149 Cave Magnes Crystal room
+150 Cave Magnes background
+151 Watery Pass campsite
+152 Baron Devil's Road
+153 Tower of Zot 1F
+154 Tower of Zot 2F
+155 Tower of Zot 3F
+156 Pitch black room
+157 Tower of Zot 4F
+158 Tower of Zot 5F
+159 Tower of Zot 6F
+160 Tower of Zot Command center
+161 Adamant Grotto
+162 Cave Magnes Save point room
+163 Tower of Zot Save point room
+164 Cid's Airship - Giant sequence
+165 Twins' Airship - Giant sequence
+166 Edward's Airship - Giant sequence
+167 Tower of Babil Save point room
+168 Tower of Babil B1
+169 Tower of Babil B2
+170 Tower of Babil B3
+171 Tower of Babil B4
+172 Tower of Babil Crystal room
+173 Tower of Babil B5
+174 Scrolling mountains - Cid falling?
+175 Underground tunnel background
+176 Crystal room background
+177 Ending - Cecil's room
+178 Training room Main floor
+179 Training room Upstairs
+180 -Glitch world-
+181 -Glitch world-
+182 Giant of Babil Mouth
+183 Giant of Babil Neck
+184 Giant of Babil Chest
+185 -Glitch world-
+186 Giant of Babil Stomach
+187 Giant of Babil Passage
+188 -Glitch world-
+189 Giant of Babil Lung
+190 Giant of Babil CPU
+191 Giant of Babil background
+192 -Glitch world-
+193 Moving airship with soldiers
+194 Fabul port
+195 Boat sailing
+196 Airship docked
+197 Joined airships
+198 Empty airship
+199 Airship flying over underworld
+200 Cave Eblan entrance
+201 Cave Eblan Settlement
+202 Cave Eblan pass to Babil
+203 Cave Eblan exit
+204 Cave Eblan Inn
+205 Cave Eblan Equipment store
+206 Cave Eblan Save point room
+207 Cave Eblan Hospital
+208 Fabul Chocobo forest
+209 Empty airship
+210 Mount Ordeals Chocobo forest
+211 Baron Chocobo forest
+212 Troia Chocobo forest
+213 Island Chocobo forest
+214 Baron Empty throne room
+215 Empty airship w/ black bg
+216 Empty airship
+217 Empty airship underground
+218 Empty airship w/ black bg
+219 Tower of Wishes - final battle
+220 Airship background
+221 Large dock
+222 -Glitch world-
+223 -Glitch world-
+224 Small dock
+225 Mist Inn
+226 Mist Weapons
+227 Mist Armor
+228 Kaipo Weapons
+229 Kaipo Armor
+230 Mysidia Weapons
+231 Mysidia Armor
+232 Mysidia Item store
+233 Mythril Inn
+234 Mythril Weapons
+235 Mythril Armor
+236 Mythril Items
+237 Baron Items
+238 Ending - Tower of Wishes
+239 Ending - Palom and Leonora
+240 Ending - Eblan throne room
+241 Ending - Leviathan's room
+242 Ending - Damcyan
+243 Ending - Dwarf Castle
+244 Ending - Mount Ordeals
+245 Ending - Astro Tower
+246 Ending - Cecil's room
+247 Ending - Baron throne room
+248 Ending - Fabul throne room
+249 -Glitch world-
+250 -Glitch world-
+251 -Glitch world-
+252 Overworld
+253 Underworld
+254 Moon surface
+255 current map
+256 Location trigger / VFX call
+257 Smithy's house
+258 Tomra
+259 Smithy's house main floor
+260 Smithy's house Smithy's room
+261 Tomra Inn
+262 Tomra Equipment store
+263 Tomra Treasury
+264 Dwarf Castle
+265 Dwarf Castle Lobby
+266 Dwarf Castle Throne room
+267 Dwarf Castle Fat Chocobo room
+268 Dwarf Castle Basement tunnel
+269 Crystal room background
+270 Dwarf Castle Crystal room
+271 Dwarf Castle Equipment room
+272 Dwarf Castle Basement w/ recovery pot
+273 Dwarf Castle East tower 1F
+274 Dwarf Castle Inn
+275 Dwarf Castle Hospital
+276 Dwarf Castle West tower 1F
+277 Tower of Babil Save point
+278 Tower of Babil Icebrand room
+279 Tower of Babil Blizzard room
+280 Tower of Babil Ice shield room
+281 Tower of Babil Ice mail room
+282 Dwarf Castle East tower 3F
+283 Dwarf Castle West tower 3F
+284 Dwarf Castle both towers 2F
+285 Dwarf Castle background
+286 Tower of Babil Floor w/ Lugae - 1
+287 Tower of Babil Floor w/ Ice mail - 1
+288 Tower of Babil Floor w/ Airship - 1
+289 Dwarf Castle Cafe
+290 Tower of Babil 1F
+291 Tower of Babil 2F
+292 Tower of Babil 3F
+293 Tower of Babil 4F
+294 Tower of Babil 5F
+295 Tower of Babil Floor w/ airship - 2
+296 Tower of Babil Floor w/ Ice mail - 2
+297 Tower of Babil Floor w/ Lugae - 2
+298 -Glitch world-
+299 -Glitch world-
+300 -Glitch world-
+301 Lunar whale
+302 Tower of Babil Cannon room
+303 Dwarf tank
+304 Lunar whale
+305 Tower of Babil background
+306 Ending - Palom and Leonora
+307 Tomra Items
+308 Tower of Wishes Top floor after Giant
+309 Castle floor background
+310 Town water background
+311 Cave of Summons 1F
+312 Cave of Summons 2F
+313 Cave of Summons 3F
+314 Sylvan Cave background
+315 Feymarch 1F
+316 Feymarch Treasury
+317 Feymarch 2F
+318 Feymarch House w/ save point
+319 Feymarch Library 1F
+320 Feymarch Library 2F
+321 Feymarch Leviathan's room
+322 Feymarch Weapons
+323 Feymarch Armor
+324 Feymarch Inn
+325 Sealed Cave entrance
+326 Sylvan Cave 1F
+327 Sylvan Cave 2F
+328 Sylvan Cave 3F
+329 Sylvan Cave Treasury
+330 Sylvan Cave Yang's room
+331 Sealed Cave 1F
+332 Sealed Cave Room w/ katana, ether
+333 Sealed Cave 2F
+334 Sealed Cave 3F
+335 Sealed Cave Room w/ katana, ninja hat
+336 Sealed Cave Room w/ ninja star, elixir
+337 Sealed Cave Room w/ Light sword
+338 Sealed Cave 4F
+339 Sealed Cave 5F
+340 Sealed Cave 6F
+341 Sealed Cave Room w/ many boxes
+342 Sealed Cave 7F
+343 Sealed Cave Save point room
+344 Sealed Cave Room w/ Demon Wall
+345 Sealed Cave Empty room
+346 Sealed Cave Crystal room
+347 Bahamut's Cave 1F
+348 Bahamut's Cave 2F
+349 Bahamut's Cave Bahamut's floor
+350 -Glitch world-
+351 -Glitch world-
+352 -Glitch world-
+353 Lunar Palace Lobby
+354 Lunar Palace Crystal room
+355 Lunar background
+356 First lunar passage
+357 Second lunar passage
+358 Hummingway land
+359 Lunar's Lair background
+360 Lunar Subterran 1F
+361 Lunar Subterran 2F
+362 Lunar Subterran 3F
+363 Lunar Subterran 4F
+364 Lunar Subterran 5F
+365 Lunar Subterran 6F
+366 Lunar Subterran 7F
+367 Lunar Core 1F
+368 Lunar Core 2F
+369 Lunar Core 3F
+370 Lunar Core 4F
+371 Lunar Core Zemus' room
+372 Lunar Subterran Room w/elixir
+373 Lunar Subterran Tunnel w/ 2 Cure3s
+374 Lunar Subterran Tunnel w/ Protect ring
+375 Lunar Subterran Tunnel w/ White robe
+376 Lunar Subterran Pinkpuff room
+377 Lunar Subterran Save point near Ragnarok
+378 Lunar Subterran Tunnel w/ Minerva
+379 Lunar Subterran Room w/ Holy lance
+380 Lunar Subterran Save point room
+381 Lunar Subterran Room w/ Ribbons
+382 Lunar Core background
+383 -Glitch world-
+384 -Glitch world-

@@ -1,0 +1,60 @@
+0  - --None--
+1  - Nothing
+2  - Smooth out
+3  - Used by Exit
+4  - Used by Meteo
+5  - Used by Comet
+6  - Absorption-esque effect
+7  - Screen Shake
+8  - Multi-Effect, Allies only
+9  - another multi-effect
+10 - Appears on caster, then target, unsummons - Used by Imp
+12 - Keep grey palette on enemy, unsummons - Used by Roc
+13 - Unsummons - Used by Mage
+14 - Flurry of punches, unsummons - Used by Chocobo
+15 - Shiva's Ice Storm, Moves Shiva's Sprite, Unsummons
+16 - Moves Indra's Sprite, unsummons
+17 - Jinn flying across the screen, unsummons
+18 - Another Screen Shaker, unsummons - Used by Titan
+19 - expels sprite at enemies, unsummons - Used by Mist Dragon
+20 - Sylph's healing effect, unsummons - Used by Sylph
+21 - Odin's Zantetsuken, unsummons - Used by Odin
+22 - Leviathan's Wave , unsummons- Used by Leviathan
+23 - Unsummons - Used by Asura 1.
+24 - Unsummons - Used by Asura 2.
+25 - Unsummons - Used by Asura 3.
+26 - Megaflare, Unsummons - Used by Bahamut.
+27 - Nothing
+28 - Nothing
+29 - Shows Sprite/Sequence and Sound twice. - Used by Explode
+30 - Used by Reaction.
+31 - Nothing
+32 - Revolving aura. - Used by Warp, Demolish
+33 - Flare's Effect. Casted Jinn's effect?
+34 - Wave attacking the party. - Used by Big Wave, Wave
+35 - Fire 3's Effect.
+36 - Nothing
+37 - Holy's Effect - Used by Holy.
+38 - Odin Rushing Forward - Odin (Enemy Spell)
+39 - Sprite/Sequence, then screen flashes - Used by Big Bang
+40 - Used by Fission
+41 - Cure 4's Effect.
+42 - Flashes Light Blue, then Sprite/Sequence - Used by Glance
+43 - Flashes Red, then Sprite/Sequence - Used by Crush
+44 - Flashes Yellow, then Sprite/Sequence
+45 - Flashes White, no Sprite/Sequence - Used by Gaze, Slap
+46 - Sprite/Sequence appears on Caster, then target
+47 - Flashes White, no Sprite/Sequence - Used by Black Hole
+48 - Glitch appears for a second, no Sprite/Sequence
+49 - Crashes Game
+50 - Battle screen darkens and stays dark, no Sprite/Sequence
+51 - Caster jumps across screen, then game crashes
+52 - Screen blacks out
+53 - Crashes Game
+54 - Crashes Game
+55 - No Sprite/Sequence
+56 - Screen blacks out
+57 - Crashes Game
+58 - No Sprite/Sequence
+59 - Game goes crazy, then blacks out
+60 - Game Crashes

@@ -1,0 +1,493 @@
+1   Door opening mechanism
+2   Sealed by Dark Elf
+3   Baron Soldier
+4   Baron Soldier
+5   Kainazzo
+6   Engineer
+7   Engineer
+8   Baigan
+9   Castle Baron White Mage
+10  Castle Baron White Mage
+11  Castle Baron White Mage
+12  Castle Baron Black Mage
+13  Castle Baron Black Mage
+14  Castle Baron Black Mage
+15  Castle Baron Soldier
+16  Porom
+17  Palom
+18  Kain - normal NPC
+19  Castle Baron Soldier
+20  Castle Baron Soldier
+21  Castle Baron Soldier
+22  Baigan - normal NPC
+23  King Baron
+24  Elder
+25  HP/Status Recovery
+26  Yang
+27  Rosa
+28  Castle Baron Soldier
+29  Troia Armor Shop Woman
+30  Castle Baron / Mysidia Black Mage
+31  Castle Baron / Mysidia White Mage
+32  Castle Baron Black Mage
+33  Castle Baron Soldier
+34  Troia Weapon Shop Dancer in dress
+35  Item Shop Girl
+36  Sleeping bubble
+37  Cecil's maid
+38	 Rubicant
+39  Dark Knight Cecil
+40  Legendary Sword
+41  Kain
+42  MP Recovery
+43  Captain
+44  Sparkle
+45  Locked door: Waterway
+46	 Locked door: Weapon/Armor Shop
+47  Baron Man
+48  Baron Old Man
+49  Namingway
+50  Baron / Troia Woman
+51  Baron Boy
+52  Baron Old Woman
+53  Cid
+54  Baron Dancer
+55  Rosa's Mom
+56  Baron/Kaipo Innkeeper
+57  Baron Inn Girl
+58  Baron Inn Man
+59  Baron Inn Woman
+60  Cid's Daughter
+61  Books
+62  Books
+63  Books
+64  Cid
+65  Fireplace
+66  Baron Weapon Shop Man
+67  Baron Armor Shop Bearded Man
+68	 Baron/Kaipo/Troia Item Shop Bearded Man
+69  Paladin Cecil
+70  Mist/Farm/Agart/Eblan Man
+71  Mist / Troia Cafe Man
+72  Mist Man
+73	 Mist/Damcyan/Fabul/Troia/Agart Old Man
+74  Child Rydia
+75  Woman lying down
+76  Mist Innkeeper
+77  Mist Weapon Shop Bearded Man
+78  Mist Armor Shop Old Man
+79  Kaipo Man
+80  Kaipo Bearded Man
+81  Kaipo Woman
+82  Kaipo Dancer
+83  Kaipo Boy
+84  Kaipo/Troia Man
+85  Kaipo Woman
+86  Kaipo Weapon Shop Old Man
+87  Kaipo Armor Shop Bearded Man
+88  Fabul Weapon Shop Old Woman
+89  Damcyan/Eblan/Zot locked door
+90  Kaipo Inn 2F Woman
+91  Kaipo Inn 2F Scholar
+92  Kaipo Inn 2F Bearded Man
+93  Advertisement
+94	 Kaipo Inn / Mysidia / Airship Soldier
+95  Kaipo Sickhouse Old Man
+96  Kaipo Sickhouse Old Woman
+97  Rosa tied-up/sick
+98  Edward
+99  Edward playing harp
+100 Anna
+101 Hooded monster
+102 Tellah
+103 water splash
+104 Octomammoth
+105 Fallen Soldier
+106 Fallen Soldier
+107 Anna fallen
+108 Fallen Soldier
+109 Fallen Soldier
+110 Troia Inn Woman
+111 Porom statue
+112 Palom statue
+113 Fire magic
+114 Ice wall
+115 Yang
+116 Mythril Mini
+117 Bomb
+118 Monk
+119 Sheila waving
+120 Mythril Mini
+121 Mythril Frog
+122 Fabul Monk
+123 Antlion's left claw
+124 Captain - not used?
+125 Castle Baron first door opener
+126 Chocobo - not used?
+127 Golbez
+128 Mysidia/Fabul crystal
+129 Lightning
+130 Black Chocobo Farm Chocobo
+131 Mythril Pig dancer
+132 Queen
+133 Dancer
+134 Baron Dancer's dress
+135 Fat Chocobo: top left
+136 Fat Chocobo: top right
+137 Fat Chocobo: bottom left
+138 Fat Chocobo: bottom right
+139 Well sign
+140 Yellow Chocobo
+141 White Chocobo
+142 Dancer's leg in water
+143 Octomammoth's tentacles
+144 Rubicant's flames
+145 Antlion's right claw
+146 Old Man - not used?
+147 Training Room Soldier outside
+148 Cave Eblana Soldier
+149 Cave Eblana Soldier
+150 Soldier - not used?
+151 Cave Eblana Soldier
+152 Fabul Monk
+153 Fabul Monk
+154 Fabul Monk
+155 Fabul Man
+156 Fabul Woman
+157 Fabul Boy
+158 Fabul Dancer
+159 Fabul Old Woman
+160 Fabul King
+161 Fabul White Mage
+162 Fabul Karate Fighter
+163 Fabul Karate Fighter
+164 Fabul Woman
+165 Mist Bomb, not used
+166 Mythril Pig
+167 Mythril Frog
+168 Dark Elf
+169 Baron/Troia/Agart Woman
+170 Mythril Weapon Shop Frog
+171 Mythril Armor Shop Pig
+172 Mythril Item Shop Mini
+173 Mythril Inn Pig
+174 Agart Boy
+175 Cave Magnes crystal
+176 Kaipo/Troia/Agart Old Woman
+177 Troia/Agart Girl
+178 Troia/Agart Bearded Man
+179 Agart Dancer
+180 Agart Weapon Shop Man
+181 Agart Armor Shop Old Man
+182 Fabul Inn Old Man
+183 Mysidia Black Mage, casts Frog
+184 Mysidia Black Mage
+185 Mysidia Black Mage
+186 Mysidia White Mage
+187 Mysidia White Mage
+188 Mysidia White Mage
+189 Mysidia Dancer, turns you into a pig
+190 Fabul/Mysidia Old Woman
+191 Mysidia Inn 2F Innkeeper White Mage
+192 Mysidia Weapon Shop Black Mage
+193 Mysidia Armor Shop White Mage
+194 Mysidia Item Shop Black Mage
+195 Mysidia Black Mage, poisons you
+196 Teleporter
+197 Mt. Ordeals flame top
+198 Mt. Ordeals flame bottom
+199 Ice magic
+200 Rydia's mother
+201 Chamberlain
+202 Barbariccia
+203 Cecil and Rosa kissing
+204 Death ball/scythe
+205 Black Chocobo
+206 Magus Sister
+207 Fat Chocobo spot
+208 Castle Troia Epopt
+209 Castle Troia Epopt
+210 Castle Troia Epopt
+211 Castle Troia Epopt
+212 Castle Troia Epopt
+213 Castle Troia Epopt
+214 Castle Troia Epopt
+215 Castle Troia Epopt
+216 Troia Dancer
+217 Troia Dancer
+218 Troia Edward
+219 Mysidia Black Mage
+220 Elder praying
+221 Castle Baron Captain
+222 Mysidia White Mage
+223 Mythril Frog
+224 Mysidia Elder, normal NPC
+225 Mysidia Black Mage praying
+226 Mysidia White Mage praying
+227 Mythril Frog
+228 Cave Eblana Weapon Shop Old Man
+229 Cave Eblana Armor Shop Man
+230 Cave Eblana Inn Bearded Man
+231 Edge
+232 Rubicant
+233 Adult Rydia
+234 Lunar Whale Crystal
+235 Fallen Soldier
+236 Airship Engineer
+237 Troia Dancer, asks for permission
+238 Fallen Soldier
+239 Cave Eblana Old Man
+240 Cave Eblana Soldier
+241 Cave Eblana Soldier
+242 Airship, docked Dwarf
+243 Tower of Zot Kain
+244 Golbez
+245 Tower of Zot locked door
+246 Pass Seller
+247 Pass Receiver
+248 Grotto Adamant Mini, wants tails
+249 Cave Eblana Soldier
+250 Saloon KING Man
+251 Silvera Mini
+252 FuSoYa
+253 Mysidia White Mage praying
+254 Mysidia Black Mage praying
+255 Dark Knight Cecil
+256 Dark Knight Cecil
+257 Dwarf
+258 Dwarf
+259 Dwarf
+260 Dwarf
+261 Dwarf
+262 Dwarf
+263 Dwarf
+264 King Giott
+265 Luca
+266 Dwarf
+267 Dwarf
+268 Dwarf
+269 Dwarf
+270 Rosa
+271 Kain
+272 Yang
+273 Cid
+274 Adult Rydia
+275 Edge
+276 Golbez
+277 Golbez's hand
+278 Calbrena
+279 Dwarf
+280 Dwarf
+281 Dwarf
+282 Dwarf
+283 crystal
+284 Golbez fallen
+285 Dwarf
+286 Fat Chocobo: top left
+287 Fat Chocobo: top right
+288 Fat Chocobo: bottom left
+289 Fat Chocobo: bottom right
+290 Fat Chocobo spot
+291 Fat Chocobo spot
+292 Namingway
+293 Cid
+294 Invisible
+295 Luge
+296 Rubicant
+297 teleportation
+298 Hooded monster
+299 Invisible
+300 Mist?
+301 Cid
+302 Edge
+303 Dwarf
+304 Dwarf
+305 Dwarf
+306 Dwarf
+307 Dwarf
+308 Dwarf
+309 Sleeping bubble
+310 Dwarf
+311 Dwarf
+312 Dwarf
+313 Dwarf
+314 Luca
+315 Double door
+316 Lightning
+317 Double door
+318 Double door
+319 Double door
+320 Double door
+321 Double door
+322 Double door
+323 Double door
+324 Double door
+325 Double door
+326 Double door
+327 Double door
+328 Double door
+329 Double door
+330 Double door
+331 Hooded monster
+332 Hooded monster
+333 Hooded monster
+334 Hooded monster
+335 Chocobo
+336 Chocobo
+337 Bomb
+338 Bomb
+339 Old Man
+340 Queen
+341 Invisible
+342 Invisible
+343 Invisible
+344 Invisible
+345 Invisible
+346 Invisible
+347 Invisible
+348 Invisible
+349 Invisible
+350 Invisible
+351 Hooded monster
+352 Bomb
+353 Hooded monster
+354 Chocobo
+355 Bahamut
+356 Boy
+357 Girl
+358 FuSoYa
+359 Sparkle
+360 Double door
+361 Invisible
+362 Crystal
+363 Invisible
+364 Invisible
+365 Invisible
+366 Smithy - initial
+367 Smithy - finished Excalibur
+368 Soldier
+369 Man
+370 Soldier
+371 Black Mage
+372 White Mage
+373 Soldier
+374 Soldier
+375 Black Mage
+376 invisible
+377 White Mage
+378 Old Man
+379 Girl
+380 Dancer
+381 Midget
+382 Hooded monster
+383 Namingway
+384 Man
+385 Scholar
+386 Boy
+387 Crystal
+388 Crystal
+389 Crystal
+390 Crystal
+391 Crystal
+392 Crystal
+393 Crystal
+394 Crystal
+395 Yang
+396 Sylph
+397 Sylph
+398 Sylph
+399 Sylph
+400 Sylph
+401 Invisible
+402 Dwarf
+403 Invisible
+404 Dwarf
+405 Dwarf
+406 Sleeping bubble
+407 Fire
+408 Invisible
+409 Invisible
+410 Rosa
+411 Adult Rydia
+412 Edge
+413 Kain
+414 Cecil and Rosa kissing
+415 Elder
+416 Porom
+417 Palom
+418 Edward
+419 Cid
+420 Yang
+421 Giott
+422 Luca
+423 Engineer
+424 Engineer
+425 Cleric
+426 Cleric
+427 Fat Chocobo: top left
+428 Fat Chocobo: top right
+429 Fat Chocobo: bottom left
+430 Fat Chocobo: bottom right
+431 Zemus
+432 Zemus fallen
+433 Wavering flame
+434 FuSoYa
+435 Golbez
+436 King Giott
+437 Luca
+438 Dwarf
+439 Scholar
+440 Elder
+441 Porom
+442 Palom
+443 Black Mage
+444 White Mage
+445 Girl
+446 Boy
+447 Woman
+448 Karate Fighter
+449 Rosa
+450 Cid
+451 Paladin Cecil
+452 Man
+453 Old Man
+454 Old Woman
+455 Yang
+456 Edward
+457 Edge
+458 Adult Rydia
+459 Kain - hair blowing in the wind
+460 Heart bubble
+461 King
+462 Soldier
+463 Milon / Goblin
+464 Frog
+465 Palom
+466 Cleric
+467 Dwarf
+468 Chocobo
+469 Astro Observatory, invisible
+470 Yellow Chocobo
+471 White Chocobo
+472 Black Chocobo
+473 Astro Observatory Scholar
+474 Sleeping bubble
+475 Crystal Sword
+476 Masamune
+477 Masamune
+478 White Spear
+479 Dwarf
+480 Namingway
+481 Namingway
+482 Namingway
+483 Namingway
+484 Namingway
+485 Edward
+486 Edward playing the harp
+487 Tellah
+488 Man
+489 Woman
+490 Soldier
+491 Black Mage
+492 White Mage
+493 Soldier
