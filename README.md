@@ -1,4 +1,4 @@
-== FF4kster v0.8 ==
+# FF4kster v0.8
 
 IMPORTANT NOTES
 ---------------
@@ -87,10 +87,10 @@ CONTROLS
     Page Down:   Move down one section
     Slash (/):   Toggle "indexed mode" (puts an index in front of each option)
     Tab:         Alternate between component windows of a "composite" menu (such as
-                  element/status or "can equip" menus)
+                 element/status or "can equip" menus)
     Shift-Enter: Highlight the current entry; pressing Enter on another
-                  entry will then swap the two instead of confirming (only
-                  certain menus can do this)
+                 entry will then swap the two instead of confirming (only
+                 certain menus can do this)
 
   In numeric inputs:
 
@@ -101,9 +101,9 @@ CONTROLS
     Home:      Minimum value
     End:       Maximum value
     Backspace: Divide current number by 10, rounding down (effectively erases
-                last digit)
+               last digit)
     0-9 keys:  Multiply the current number by 10 and add the typed digit
-                (effectively allows you to type out numbers)
+               (effectively allows you to type out numbers)
     
     NOTE - Some things look like numeric inputs but are actually menus (prices
            for example, as you can't just put any arbitrary number as a price)
@@ -114,11 +114,11 @@ CONTROLS
     Numbers:   Numbers
     Unerscore: Elipsis (three dots "..." as a single symbol)
     Symbols:   If the symbol corresponds to a symbol in the FF4 font (such as
-                a dash or colon), that symbol; otherwise a "?"
+               a dash or colon), that symbol; otherwise a "?"
     Insert:    Insert a special symbol from the FF4 font that doesn't have a
-                corresponding ascii symbol (e.g. weapon icons, magic orbs,
-                etc); the first one will appear and you can cycle through them
-                using the arrows (enter to confirm)
+               corresponding ascii symbol (e.g. weapon icons, magic orbs,
+               etc); the first one will appear and you can cycle through them
+               using the arrows (enter to confirm)
     Backspace: Delete last letter/symbol
 
 
@@ -375,61 +375,61 @@ represented in the box is not always identical to how it is displayed in the
 preview on the side; several special codes are used to get certain kinds of
 symbols or other effects:
 
-  Certain letter pairs: The text encoding always uses dual-character 
-                        encoding whenever possible. Thus if you type "th" it
-                        will not result in a 't' followed by an 'h' in the
-                        rom but rather the single-byte code for the letter
-                        pair 'th'. This shouldn't affect your normal typing
-                        in any way; you can just type normal letters the way
-                        you expect them to appear and the editor will covert
-                        it automatically.
+    Certain letter pairs: The text encoding always uses dual-character 
+                          encoding whenever possible. Thus if you type "th" it
+                          will not result in a 't' followed by an 'h' in the
+                          rom but rather the single-byte code for the letter
+                          pair 'th'. This shouldn't affect your normal typing
+                          in any way; you can just type normal letters the way
+                          you expect them to appear and the editor will covert
+                          it automatically.
 
-  End of line: Even if you press enter to go down to the next line in the
-               text input box, that will not create a new line character in
-               the text encoding. To do this, use the slash character '/'.
+    End of line: Even if you press enter to go down to the next line in the
+                 text input box, that will not create a new line character in
+                 the text encoding. To do this, use the slash character '/'.
 
-  Names: If you simply type out a name like "Cecil" or "Yang" then if the
-         player changes that character's name, the dialogue will not be
-         affected in your message. If you want to refer to a character's name,
-         use "/name##" where the # symbols are replaced with the digits 
-         comprising the name index you're looking for (so for "Cecil" you
-         would type "/name00" or for "Yang", "/name06"). In the "insert menu"
-         you can select "Name" to bring up a list of names. Selecting one will
-         also insert the code for that name into the text (though you can
-         still type it out manually if you prefer). The previews in the
-         message editor (but not the previews in other editors, such as the
-         event editor) will pad the name out to six letters using spaces.
-         This is to assist with spacing and alignment for the situation where
-         the player renamed the character, and its name may be longer than
-         you were expecting when you were composing the message.
+    Names: If you simply type out a name like "Cecil" or "Yang" then if the
+           player changes that character's name, the dialogue will not be
+           affected in your message. If you want to refer to a character's name,
+           use "/name##" where the # symbols are replaced with the digits 
+           comprising the name index you're looking for (so for "Cecil" you
+           would type "/name00" or for "Yang", "/name06"). In the "insert menu"
+           you can select "Name" to bring up a list of names. Selecting one will
+           also insert the code for that name into the text (though you can
+           still type it out manually if you prefer). The previews in the
+           message editor (but not the previews in other editors, such as the
+           event editor) will pad the name out to six letters using spaces.
+           This is to assist with spacing and alignment for the situation where
+           the player renamed the character, and its name may be longer than
+           you were expecting when you were composing the message.
 
-  Songs: There is a special character reserved in the text ecoding for causing
-         the game to change to a different track of music when it displays the
-         dialogue. To achieve this effect in the multiline text input, type
-         "/song##" with the # symbols replaced with the digits for the index
-         of the song you wish to play. As with names, the "insert menu"
-         contains an option which will bring up a list of the songs in the
-         game that you can choose one from and it will insert the appropriate
-         code into the text for you.
+    Songs: There is a special character reserved in the text ecoding for causing
+           the game to change to a different track of music when it displays the
+           dialogue. To achieve this effect in the multiline text input, type
+           "/song##" with the # symbols replaced with the digits for the index
+           of the song you wish to play. As with names, the "insert menu"
+           contains an option which will bring up a list of the songs in the
+           game that you can choose one from and it will insert the appropriate
+           code into the text for you.
 
-  Delay: You can cause the game to ignore user input for a certain amount of
-         time to prevent them from prematurely advancing the text (you can see
-         this effect in messages such as "Karate Man Yang joined!" or "Cecil 
-         became a Paladin!"). To insert wait time, type "/wait###", replacing
-         the # symbols with a number representing the amount of time you wish
-         to force the user to wait.
+    Delay: You can cause the game to ignore user input for a certain amount of
+           time to prevent them from prematurely advancing the text (you can see
+           this effect in messages such as "Karate Man Yang joined!" or "Cecil 
+           became a Paladin!"). To insert wait time, type "/wait###", replacing
+           the # symbols with a number representing the amount of time you wish
+           to force the user to wait.
 
-  Unknown codes: There are some characters that exist in the font but their
-                 use is currently unknown (Hex codes 0A to 20). In the
-                 unlikely event that you wish to type one of these characters,
-                 type "/chr##", replacing the # symbols with the decimal
-                 representation of the index of the symbol you want (so, a
-                 number between 10 and 32).
+    Unknown codes: There are some characters that exist in the font but their
+                   use is currently unknown (Hex codes 0A to 20). In the
+                   unlikely event that you wish to type one of these characters,
+                   type "/chr##", replacing the # symbols with the decimal
+                   representation of the index of the symbol you want (so, a
+                   number between 10 and 32).
 
-  Slash: Since many of these codes use the slash symbol '/', if you need the
-         text to have an actual slash character in there, this can be achieved
-         by typing "/slash". So for example if you want your message to say
-         "4/10" then you would type "4/slash10"
+    Slash: Since many of these codes use the slash symbol '/', if you need the
+           text to have an actual slash character in there, this can be achieved
+           by typing "/slash". So for example if you want your message to say
+           "4/10" then you would type "4/slash10"
          
 All of these codes can by typed manually, but most of them can also be 
 accessed via a sub menu which appears when you press INSERT while editing.
@@ -562,32 +562,24 @@ display a preview of its tileset on the left and a 16x16 tile section of
 the map itself in the middle. Pressing Enter will switch to map editing
 mode, where the following controls apply:
 
-  TAB: Switch between the map editor and the tile selector.
-  
-  ARROWS: Move the cursor.
+    TAB: Switch between the map editor and the tile selector.
+    ARROWS: Move the cursor.
   
 The following controls only apply to the map editor itself, not the tile
 selector:
 
-  SHIFT + ARROWS: Expand the cursor to highlight a rectangular section
-                  instead of just a single tile.
-                  
-  HOME: Scroll to the top left corner of the map.
-  
-  END: Scroll to the bottom left corner of the map.
-  
-  PAGE UP: Scroll to the top right corner of the map.
-  
-  PAGE DOWN: Scroll to the bottom right corner of the map.
-  
-  ENTER: Fill the highlighted tile or section with the currently selected
-         tile.
-         
-  SPACE: Flood fill with the currently selected tile, starting at the
-         highlighted tile.
-         
-  BACKSPACE: Change the selected tile to the highlighted one (much like
-             the "dropper" feature of many image editors).
+    SHIFT + ARROWS: Expand the cursor to highlight a rectangular section
+                    instead of just a single tile.
+    HOME: Scroll to the top left corner of the map.
+    END: Scroll to the bottom left corner of the map.
+    PAGE UP: Scroll to the top right corner of the map.
+    PAGE DOWN: Scroll to the bottom right corner of the map.
+    ENTER: Fill the highlighted tile or section with the currently selected
+           tile.
+    SPACE: Flood fill with the currently selected tile, starting at the
+           highlighted tile.
+    BACKSPACE: Change the selected tile to the highlighted one (much like
+               the "dropper" feature of many image editors).
 
 Note that certain maps share the same tile arrangements. This can be viewed
 and modified in the "Map Info" editor, under the label "Grid Index". If two
@@ -765,25 +757,25 @@ Known contributors, sources, and/or testers include but are not limited to
 the following (as much as I don't like naming names, I feel these people
 deserve specific mention):
 
-avalanche
-avaquizzer
-Bond697
-chillyfeez
-Deathlike2
-Displacer
-Dragonsbrethren
-Edea
-Entroper
-Grimoire LD
-JCE3000GT
-LordGaramonde
-Paladin
-Phoenix
-vivify93
-Vehek
-Yousei
-Zozma
-Zyrthofar
+avalanche  
+avaquizzer  
+Bond697  
+chillyfeez  
+Deathlike2  
+Displacer  
+Dragonsbrethren  
+Edea  
+Entroper  
+Grimoire LD  
+JCE3000GT  
+LordGaramonde  
+Paladin  
+Phoenix  
+vivify93  
+Vehek  
+Yousei  
+Zozma  
+Zyrthofar  
 ...and whoever wrote the "Tower of Bab-Il Docs"
 
 VERSION HISTORY
